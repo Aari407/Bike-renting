@@ -1,2 +1,2 @@
-# Bike-renting
-Projects
+# Projects
+Bike Renting
